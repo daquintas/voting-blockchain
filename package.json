@@ -1,0 +1,17 @@
+{
+  "name": "voting-blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eccrypto": "^1.1.3",
+    "elliptic": "^6.5.2",
+    "keypair": "^1.0.1",
+    "node-forge": "^0.9.1"
+  }
+}
